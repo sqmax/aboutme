@@ -1,0 +1,41 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+
+#avatar {
+  width: 256px;
+  height: 256px;
+  border: 10px solid #67949D;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%; }
+  
+.editor-wrap {
+  float: left;
+  width: 50%;
+  height: 100%;
+  overflow: auto;
+}
+
+.preview-wrap {
+  float: left;
+  width: 50%;
+  height: 100%;
+  overflow: auto;
+}
+
+.editor-wrap .CodeMirror {
+  font-size: 18px;
+  height: 100%;
+}
+
+.preview-wrap .markdown-body {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 980px;
+  padding: 45px;
+  font-size: 18px;
+}
