@@ -40,7 +40,7 @@ Hi! 我是SqMax
 - [个人网站](http://www.sqmax.top)
 - [segmentfault](https://segmentfault.com/u/sqmax)
 - [掘金](https://juejin.im/user/5a97f7b86fb9a028b86d717c)
-- [新浪微博](https://weibo.com/p/1005056454235156/home)
+- [新浪微博](http://weibo.com/sqmax)
 - [网易云音乐](http://music.163.com/#/user/home?id=1375636217)
 - [给我发email](mailto: sqpolar@gmail.com)
 
